@@ -1,5 +1,5 @@
 Future programmer? I don't know, we'll see soon.
-![image]({https://github-readme-stats.vercel.app/api?username=swerrio&theme=prussian&show_icons=true&hide_border=true&count_private=true})
+![image](https://github-readme-stats.vercel.app/api?username=swerrio&theme=prussian&show_icons=true&hide_border=true&count_private=true)
 
 <h3 align="left">Studying</h3>
 <div align="left">
