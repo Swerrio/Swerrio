@@ -1,5 +1,8 @@
 Future programmer? I don't know, we'll see soon.
-<picture>(https://github-readme-stats.vercel.app/api?username=swerrio&theme=prussian&show_icons=true&hide_border=true&count_private=true)</picture>
+<picture>
+  <source
+    srcset="[https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark](https://github-readme-stats.vercel.app/api?username=swerrio&theme=prussian&show_icons=true&hide_border=true&count_private=true)"
+  /></picture>
 
 <h3 align="left">Studying</h3>
 <div align="left">
