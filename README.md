@@ -13,8 +13,8 @@ Future programmer? I don't know, we'll see soon.
 
 
 
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=swerrio&theme=prussian&show_icons=true&hide_border=true&layout=compact)
+
+
 ![image](https://github-readme-streak-stats.herokuapp.com/?user=swerrio&theme=prussian&hide_border=true)
 
-
-
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=swerrio&theme=prussian&show_icons=true&hide_border=true&layout=compact)
